@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+googlemaps==2.5.1
+geopy==1.11.0
+pandas==0.20.3
